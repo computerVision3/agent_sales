@@ -1,0 +1,6 @@
+{
+  "dependencies": ["."],
+  "graphs": {
+    "agent": "/home/ai/agent_sales/agents/graph.py:graph"
+  }
+}

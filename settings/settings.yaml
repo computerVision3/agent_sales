@@ -1,0 +1,5 @@
+MODEL_NAME: "qwen3:8b"
+# MODEL_NAME: "mistral"
+
+TEMPERATURE: 0.0
+REASONING: true
