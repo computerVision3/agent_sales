@@ -1,0 +1,161 @@
+.
+├── app
+│   ├── globals.css
+│   ├── layout.tsx
+│   └── page.tsx
+├── components
+│   ├── chat-header.tsx
+│   ├── chat-message.tsx
+│   ├── chat-window.tsx
+│   ├── message-input.tsx
+│   ├── session-selector.tsx
+│   ├── theme-provider.tsx
+│   └── ui
+├── components.json
+├── Dockerfile
+├── folder-structure.txt
+├── hooks
+│   ├── use-chat.ts
+│   ├── use-mobile.ts
+│   └── use-toast.ts
+├── lib
+│   ├── api.tsx
+│   └── utils.ts
+├── next.config.mjs
+├── next-env.d.ts
+├── node_modules
+│   ├── @alloc
+│   ├── aria-hidden
+│   ├── autoprefixer
+│   ├── @babel
+│   ├── baseline-browser-mapping
+│   ├── browserslist
+│   ├── caniuse-lite
+│   ├── chownr
+│   ├── class-variance-authority
+│   ├── client-only
+│   ├── clsx
+│   ├── cmdk
+│   ├── csstype
+│   ├── d3-array
+│   ├── d3-color
+│   ├── d3-ease
+│   ├── d3-format
+│   ├── d3-interpolate
+│   ├── d3-path
+│   ├── d3-scale
+│   ├── d3-shape
+│   ├── d3-time
+│   ├── d3-time-format
+│   ├── d3-timer
+│   ├── @date-fns
+│   ├── date-fns
+│   ├── date-fns-jalali
+│   ├── decimal.js-light
+│   ├── detect-libc
+│   ├── detect-node-es
+│   ├── dom-helpers
+│   ├── electron-to-chromium
+│   ├── embla-carousel
+│   ├── embla-carousel-react
+│   ├── embla-carousel-reactive-utils
+│   ├── @emnapi
+│   ├── @emotion
+│   ├── enhanced-resolve
+│   ├── escalade
+│   ├── eventemitter3
+│   ├── fast-equals
+│   ├── @floating-ui
+│   ├── fraction.js
+│   ├── framer-motion
+│   ├── geist
+│   ├── get-nonce
+│   ├── graceful-fs
+│   ├── @hookform
+│   ├── @img
+│   ├── input-otp
+│   ├── internmap
+│   ├── @isaacs
+│   ├── jiti
+│   ├── @jridgewell
+│   ├── js-tokens
+│   ├── lightningcss
+│   ├── lightningcss-linux-x64-gnu
+│   ├── lightningcss-linux-x64-musl
+│   ├── lodash
+│   ├── loose-envify
+│   ├── lucide-react
+│   ├── magic-string
+│   ├── minipass
+│   ├── minizlib
+│   ├── motion-dom
+│   ├── motion-utils
+│   ├── nanoid
+│   ├── @next
+│   ├── next
+│   ├── next-themes
+│   ├── node-releases
+│   ├── normalize-range
+│   ├── object-assign
+│   ├── picocolors
+│   ├── postcss
+│   ├── postcss-value-parser
+│   ├── prop-types
+│   ├── @radix-ui
+│   ├── react
+│   ├── react-day-picker
+│   ├── react-dom
+│   ├── react-hook-form
+│   ├── react-is
+│   ├── react-remove-scroll
+│   ├── react-remove-scroll-bar
+│   ├── react-resizable-panels
+│   ├── react-smooth
+│   ├── react-style-singleton
+│   ├── react-transition-group
+│   ├── recharts
+│   ├── recharts-scale
+│   ├── scheduler
+│   ├── semver
+│   ├── server-only
+│   ├── sharp
+│   ├── sonner
+│   ├── source-map-js
+│   ├── styled-jsx
+│   ├── @swc
+│   ├── @tailwindcss
+│   ├── tailwindcss
+│   ├── tailwindcss-animate
+│   ├── tailwind-merge
+│   ├── tapable
+│   ├── tar
+│   ├── tiny-invariant
+│   ├── tslib
+│   ├── tw-animate-css
+│   ├── @types
+│   ├── typescript
+│   ├── undici-types
+│   ├── update-browserslist-db
+│   ├── use-callback-ref
+│   ├── use-sidecar
+│   ├── use-sync-external-store
+│   ├── vaul
+│   ├── @vercel
+│   ├── victory-vendor
+│   ├── yallist
+│   └── zod
+├── package.json
+├── package-lock.json
+├── pnpm-lock.yaml
+├── postcss.config.mjs
+├── public
+│   ├── placeholder.jpg
+│   ├── placeholder-logo.png
+│   ├── placeholder-logo.svg
+│   ├── placeholder.svg
+│   └── placeholder-user.jpg
+├── styles
+│   └── globals.css
+└── tsconfig.json
+
+128 directories, 30 files
