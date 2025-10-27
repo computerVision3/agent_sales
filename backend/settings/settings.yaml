@@ -1,0 +1,8 @@
+MODEL_NAME: "qwen3:8b"
+# MODEL_NAME: "gpt-oss:20b"
+# MODEL_NAME: "deepseek-r1:latest"
+
+TEMPERATURE: 0.2
+REASONING: True
+
+BASE_URL: "http://localhost:11434" # when working with local ollama docker
