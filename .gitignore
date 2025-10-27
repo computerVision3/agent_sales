@@ -1,0 +1,83 @@
+# ------------------------------
+# Node / Next.js (frontend)
+# ------------------------------
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+frontend/dist/
+frontend/.turbo/
+frontend/.vercel/
+frontend/coverage/
+frontend/.pnp/
+frontend/.pnp.js
+frontend/.env*
+frontend/logs/
+frontend/*.log
+frontend/yarn.lock
+frontend/package-lock.json
+frontend/pnpm-lock.yaml
+frontend/.vscode/
+frontend/.idea/
+frontend/.DS_Store
+frontend/Thumbs.db
+frontend/storybook-static/
+frontend/*.tsbuildinfo
+
+# ------------------------------
+# Python / Backend
+# ------------------------------
+backend/__pycache__/
+backend/*.py[cod]
+backend/build/
+backend/dist/
+backend/.env
+backend/.venv/
+backend/venv/
+backend/env/
+backend/.mypy_cache/
+backend/.pytest_cache/
+backend/.coverage
+backend/coverage.xml
+backend/htmlcov/
+backend/.tox/
+backend/.nox/
+backend/.idea/
+backend/.vscode/
+backend/db.sqlite3
+backend/db.sqlite3-journal
+backend/*.log
+backend/media/
+backend/instance/
+backend/.scrapy/
+backend/.ipynb_checkpoints/
+backend/docs/_build/
+backend/.python-version
+backend/*.tmp
+backend/*.temp
+backend/*.bak
+backend/output/
+backend/upload/
+
+# ------------------------------
+# General System + Editor Files
+# ------------------------------
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*.tmp
+*.bak
+*.orig
+*.log
+.vscode/
+.idea/
+*.iml
+
+# ------------------------------
+# Global environments
+# ------------------------------
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
